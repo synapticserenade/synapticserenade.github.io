@@ -30,11 +30,8 @@ divider {
 	position: relative;
 	top: 29%;
 	font-size: 35px;
-<<<<<<< HEAD
 	text-align: center;
 	margin-bottom: 40px;
-=======
->>>>>>> origin/gh-pages
 }
 .connect-text{
 	margin-top: 50px;
@@ -142,7 +139,7 @@ p.text-center.sub-text {
 .next-line{
 	max-width: 600px !important;
 }
- li.selected a{
+li.selected a{
 	color: black !important;
 }
 .nav .open>a, .nav .open>a:focus, .open>a:hover{
